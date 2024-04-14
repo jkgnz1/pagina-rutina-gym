@@ -1,0 +1,137 @@
+@media only screen and (max-width: 1920px) and (min-width: 430px) {
+    width: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0%;
+    padding: 10%;
+    background: linear-gradient(to bottom, red, black);
+    font-size: 40px;
+    font-family: 'recursive', sans-serif;
+}
+
+p {
+    color: white;
+}
+
+#dia1,
+#dia2,
+#dia3 {
+    color: red;
+    text-align: center;
+}
+
+#diass {
+    text-align: center;
+}
+
+#diass a {
+    margin: 0 10px;
+}
+
+#container,
+#container1,
+#container2,
+#container3,
+#container4,
+#container7,
+#container8,
+#container9,
+#container10,
+#container11,
+#container12,
+#container13 {
+    margin-top: 20px;
+}
+
+#container img,
+#container1 img,
+#container3 img,
+#container4 img,
+#container7 img,
+#container8 img,
+#container9 img,
+#container10 img,
+#container11 img,
+#container12 img,
+#container13 img,
+#container15 img,
+#container16 img,
+#container17 img,
+#container18 img,
+#container19 img {
+    max-width: 100%;
+    height: auto;
+}
+
+#container p,
+#container1 p,
+#container3 p,
+#container4 p,
+#container7 p,
+#container8 p,
+#container9 p,
+#container10 p,
+#container11 p,
+#container12 p,
+#container13 p,
+#container15 p,
+#container16 p,
+#container17 p,
+#container18 p,
+#container19 p,
+#container20 p {
+    margin-left: 20px;
+}
+
+#container1 p {
+    margin-left: 10px;
+}
+
+#sentadilla-hack,
+#extenciones-cuadriceps,
+#elevacion-talon,
+#jalones,
+#remosentado,
+#remo-tumbado,
+#press-militar,
+#vueloss,
+#curl-biceps,
+#curl-biceps-scott,
+#triceps-polea,
+#extencion-triceps-polea,
+#pecho1,
+#pecho2,
+#pecho3,
+#martillo-,
+#femoral,
+#abductores,
+#hip,
+#pantorrilla-sentado {
+    font: 40px;
+    font-family: 'Nosifer', sans-serif;
+}
+
+#container6 {
+    display: flex;
+    justify-content: last baseline;
+}
+
+#container6 img {
+    width: 300px;
+    height: auto;
+    margin: 0 10px;
+}
+
+a,
+a:visited {
+    color: red;
+}
+
+
